@@ -1,0 +1,14 @@
+{
+    "name": "kristinatibeikina/collec",
+    "description": "Module for working with arrays",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kristinatibeikina",
+            "email": "kristina.tibeykina04@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
