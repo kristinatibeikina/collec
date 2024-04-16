@@ -18,7 +18,7 @@ class Validator
         switch ($ruleName) {
             case 'required':
                 return $this->checkRequired();
-            case 'unique':
+            case 'cyrillic':
                 return $this->checkCyrillic();
             // Добавьте другие правила валидации по мере необходимости
             default:
